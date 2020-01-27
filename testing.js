@@ -19,7 +19,7 @@ export default class MovieShowcase extends Component {
 }
 
 
-
+/////////////////////////////////////////////////////////////////
 
 
 
@@ -56,7 +56,7 @@ export default class CardBack extends Component {
 }
 
 
-
+/////////////////////////////////////////////
 
 import defaultPoster from '../assets/poster-imgs/default.png';
 import cmi from '../assets/poster-imgs/choux-and-maru-go-to-istanbul.png';

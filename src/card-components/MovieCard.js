@@ -33,7 +33,7 @@ export default class MovieCard extends Component {
         <CardFront poster={posterMap[this.props.poster]}/>
         <CardBack 
           title={this.props.title}
-          IMBDRating={this.props.IMDBRating}
+          IMDBRating={this.props.IMDBRating}
           genres={this.props.genres}
         />
       </div>
